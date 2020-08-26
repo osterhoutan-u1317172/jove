@@ -10,3 +10,5 @@ nosol.txt
 __pycache__
 parser.out
 parsetab.py
+.code-workspace
+.vscode/

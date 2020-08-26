@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.dataScience.alwaysTrustNotebooks": true,
+		"python.dataScience.jupyterServerURI": "local",
+		"workbench.colorTheme": "GitHub Dark",
+		"workbench.colorCustomizations": {
+			"sideBar.foreground": "#ffffff88"
+		}
+	}
+}
