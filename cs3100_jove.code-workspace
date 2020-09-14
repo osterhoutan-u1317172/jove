@@ -1,29 +1,35 @@
 {
-	"folders": [
-		{
-			"path": "."
-		}
-	],
-	"settings": {
-		"python.dataScience.alwaysTrustNotebooks": true,
-		"python.dataScience.jupyterServerURI": "local",
-		
-		// - Color customizations --------
-		"workbench.colorTheme": "Material Theme High Contrast",
-		"workbench.colorCustomizations": {
-            
-            // - misc color customizations ----
-			"sideBar.foreground": "#ffffff98",
-			// "editor.background": "#1C2024",	  // mid-tone gray
-            // "editor.background": "#111316",		// dark tone gray
-            "editor.background": "#12181A",		// dark tone gray
-            "editor.foreground": "#fdfeffd8",
-            // "sideBar.background": "#1C1E24",
-            // "panel.background": "#1C1E24",
-            
-            // - notebook color customizations ----
-            "notebook.cellHoverBackground": "fdfeff88",
-            // "notebook.focusedCellBackground": "#ff0000"
-        }
-	}
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+
+  "settings": {
+    // "editor.fontSize": 16,
+
+    // "python.dataScience.alwaysTrustNotebooks": true,
+    "python.dataScience.jupyterServerURI": "local",
+
+    // - Color customizations --------
+    "workbench.colorTheme": "Material Theme High Contrast",
+    "workbench.colorCustomizations": {
+      // - misc color customizations ----
+      "sideBar.foreground": "#ffffff98",
+      // "editor.background": "#1C2024",	  // mid-tone gray
+      // "editor.background": "#111316",		// dark tone gray
+      "editor.background": "#12181A", // dark tone gray
+      "editor.foreground": "#fdfeffd8",
+      // "sideBar.background": "#1C1E24",
+      // "panel.background": "#1C1E24",
+
+      // - notebook color customizations ----
+      "notebook.cellHoverBackground": "fdfeff88"
+      // "notebook.focusedCellBackground": "#ff0000"
+    }
+
+    // "[jupyter]": {
+
+    // }
+  }
 }
