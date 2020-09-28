@@ -78,28 +78,48 @@ Outcomes: Understand the importance of nondeterminism in computer
 
 
    - **MIDTERM EXAM-1**
-     - **COVERING Asg 1-3 given out 9/26/20 9 AM**
-     - **DUE MONDAY 9/28 11:59pm**
-     - **TWO ATTEMPTS of 80 mins each - SECOND ATTEMPT COUNTS**
+     - **BOOK SECTIONS**
+       - CHAPTERS 1-7
+         - EXCEPT Pumping Lemma AND Details of  dynamic-programming Based Minimization
+	 
+     - **NOTEBOOK PART**
+       - COVERS Asg 1-3
+       - You have all the time from Sat till Monday
+       - 75% of the overall score
+     - **QUIZ PART**
+       - Covers Quiz 1-3
+       - Two 40-min attempts
+       - Best Quiz Attempt Counts
+       - No "incorrect answer" feedback
+       - 25% of the overall score
+     - **Given out**
+       - 9/26/20 9 AM or before
+     - **DUE**
+       - MONDAY 9/28 11:59pm
+
      
 
 * Week-6 **Reading** Chapter 4.6 through 4.8.  __Outcomes:__
   Understand the limitations of finite automata by
-  studying the regular language Pumping Lemma 
+  studying the regular language Pumping Lemma. Also begin introducing
+  Pushdown Automata while the students slowly mull over the Pumping Lemma.
+  
    - 11:9/29
      - Run the Notebooks within 09_Reg_PL/
      - Quiz-5 given; due 10/2 11:59pm, covers L11,12
      - Asg-5 given; due 10/9 11:59pm, covers L11,12
+     - In-class: ZOOM BREAKOUT for problem-solving about PL
+     
    - 12:10/1
-     - Run the Notebooks within 09_Reg_PL/
-   
+     - Run the Notebooks within 10_PDA/
+     - In-class: ZOOM BREAKOUT for problem-solving about PDA
    
 * Week-7 **Reading** Chapters 11 (except 11.9), 12.  __Outcomes:__
   Learn the basics of pushdown automata followed by
   context-free grammars and languages. 
   
    - 13:10/6
-     - Run the Notebooks within 10_PDA/
+
      - Quiz-6 given; due 10/9 11:59pm, covers L113,14
      - Asg-6 given; due 10/16/20 11:59pm, covers L113,14      
    - 14:10/8
@@ -126,7 +146,8 @@ Outcomes: Understand the importance of nondeterminism in computer
      - Quiz-8 given; due 10/23 11:59pm, covers L117,18
    - 18:10/22
      - Review-2
-     - MIDTERM EXAM-2 covering Asg 4-6 given out
+     - **MIDTERM EXAM-2** covering Asg 4-6 PLUS Quizzes Covered till now!
+     - Given out 10/22
      - Due Monday 10/26 11:59pm
 
 * Week-10 **Reading** Chapters 11.9, 13.  __Outcomes:__
