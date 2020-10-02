@@ -24,7 +24,7 @@
       // "panel.background": "#1C1E24",
 
       // - notebook color customizations ----
-      "notebook.cellHoverBackground": "fdfeff88"
+      "notebook.cellHoverBackground": "#fdfeff88"
       // "notebook.focusedCellBackground": "#ff0000"
     }
 
