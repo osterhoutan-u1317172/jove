@@ -10,6 +10,7 @@
 
     // "python.dataScience.alwaysTrustNotebooks": true,
     "python.dataScience.jupyterServerURI": "local",
+    "python.dataScience.enablePlotViewer": false,
 
     // - Color customizations --------
     "workbench.colorTheme": "Material Theme High Contrast",
