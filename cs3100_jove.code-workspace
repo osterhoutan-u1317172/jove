@@ -53,7 +53,8 @@
       "pygments",
       "rdparty",
       "rsltdict"
-    ]
+    ],
+    "python.dataScience.textOutputLimit": 0
 
     // "[jupyter]": {
 
