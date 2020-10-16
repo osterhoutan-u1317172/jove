@@ -27,7 +27,33 @@
       // - notebook color customizations ----
       "notebook.cellHoverBackground": "#fdfeff88"
       // "notebook.focusedCellBackground": "#ff0000"
-    }
+    },
+    "cSpell.words": [
+      "Assgn",
+      "CFG's",
+      "CFGs",
+      "Colab",
+      "Eamb",
+      "OSTER",
+      "OSTERHOUTAN",
+      "Oster",
+      "Osterhout",
+      "Osterhoutan",
+      "STKMAX",
+      "assgn",
+      "codemirror",
+      "disp",
+      "isdigit",
+      "kernelspec",
+      "nbconvert",
+      "nbformat",
+      "oster",
+      "osterhoutan",
+      "parsetab",
+      "pygments",
+      "rdparty",
+      "rsltdict"
+    ]
 
     // "[jupyter]": {
 
