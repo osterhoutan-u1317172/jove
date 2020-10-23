@@ -39,20 +39,26 @@
       "Oster",
       "Osterhout",
       "Osterhoutan",
+      "PDA's",
       "STKMAX",
+      "SUCC",
       "assgn",
+      "blockquote",
       "codemirror",
       "disp",
       "isdigit",
       "kernelspec",
       "nbconvert",
       "nbformat",
+      "operatotr",
       "oster",
       "osterhoutan",
       "parsetab",
       "pygments",
       "rdparty",
-      "rsltdict"
+      "rsltdict",
+      "varepsilon",
+      "xrightarrow"
     ],
     "python.dataScience.textOutputLimit": 0
 
