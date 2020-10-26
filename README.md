@@ -7,6 +7,9 @@
 	and solutions are available! (The book is coming out in an inexpensive
 	paperback edition also.)
 
+  - [Additional coverage of Jove][cacmnote]
+     is in a CACM note published in October, 2020.
+
   - Watch https://youtu.be/vhZGUFhm9fY
   - Now go to https://github.com/ganeshutah/Jove.git and go to For_CS3100_Fall2020
   - See my weekly lesson plans for a class I'm teaching
@@ -18,7 +21,13 @@
     - answer the theoretical questions using Latex markdowns
     - answer the Jove (experimental) questions using Colab, submitting finished notebooks
   - For instructors: I have all the solutions for Assignments, Quizzes, and End-of-Chapter exercises 
-  - Last but not least, see the practical tie-in by visiting the notebooks in
+  - Last but not least, see the practical tie-in by visiting the various notebook (here is a sampling):
+    - 01_Computability_Languages/1c_Language_Basics.ipynb
+      - use of Widgets to show "star" working
+    - 02_Basic_DFA/Basic_DFA.ipynb
+      - DFA definition and animation
+    - 07_NFA2RE/NFA_to_RE.ipynb
+      - NFA to RE conversion
     - 11_CFG/ 
       - Calculator_with_Parse_Tree_Drawing.ipynb
         - explains Expression Parsing, comparing different programming languages
@@ -27,7 +36,9 @@
     - 12_CFG2PDA/
       - RE2_NFA_PT.ipynb
         - explains how regular-expressions (RE) are parsed using Context-Free Grammars
-	- explains how "code generation" (NFA generation) from REs works
+        - explains how "code generation" (NFA generation) from REs works
+    - 17_DTMs_and_NDTMs/CH13-Asg8.ipynb
+      - DTM and NDTM animation
 	
   - I am *VERY* keen on making Jove a community project where YOU CAN CONTRIBUTE!
     - We can talk more; drop me an email at ganesh@cs.utah.edu (or issue Git pull-requests)
@@ -83,6 +94,8 @@
 
 
 [bookurl]: https://www.amazon.com/Automata-Computability-Programmers-Ganesh-Gopalakrishnan-dp-036765654X/dp/036765654X/ref=mt_other?_encoding=UTF8&me=&qid=
+
+[cacmnote]: https://cacm.acm.org/magazines/2020/10/247591-using-computer-programs-and-search-problems-for-teaching-theory-of-computation/fulltext
 
 **[The End, ... but Marvel at Jove, creator of the "double anti-whammy!"](https://www.nytimes.com/2009/07/26/weekinreview/26overbye.html) **
 
