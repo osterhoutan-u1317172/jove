@@ -7,6 +7,7 @@ import re
 import pdb
 import platform
 import os
+import sys
 
 def pcp_oslink(OWN_INSTALL):
         """
@@ -118,7 +119,7 @@ def pcp_solve(pcp_pairs, OWN_INSTALL=False, run=None, ni=False, di=None, depth=N
     # Run the command.
     print(" Running the command ... : ", args.split())
     process = subprocess.Popen(args.split(), stdout=subprocess.PIPE)
-    ouput, error = process.communicate()
+    output, error = process.communicate()
 
     # Grab the solution info from the generated file.
     solved = open("sol.txt", "r").read()
