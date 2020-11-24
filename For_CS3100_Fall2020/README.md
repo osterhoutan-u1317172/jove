@@ -205,7 +205,7 @@ Outcomes: Understand the importance of nondeterminism in computer
        - This will give you practice with basic computability
        	 notions
        - This will also expose you to Lambda Calculus
-     - Quiz-11 given; due 11/13 11:59pm, covers L23,24
+     - Quiz-10 given; due 11/13 11:59pm, covers L23,24
      - Asg-10 given; due 11/20/20 11:59pm, covers L23,24
        (Post Correspondence, Mapping Reductions)
      
@@ -217,24 +217,26 @@ Outcomes: Understand the importance of nondeterminism in computer
   Basics of Boolean reasoning, conjunctive normal form
   formulae, validity versus satisfiability, NP-completeness.
    - 25:11/17
-     - Run the Notebooks within 21_Bool_Basics/
-     - Quiz-12 given; due 11/20 11:59pm, covers L25,26
-     - Asg-11 given; due MONDAY 11/30/20 11:59pm, covers L25,26 
+     - Run the Notebooks within 21_NPC_Lambda/
+     - Quiz-11 given; due 11/20 11:59pm, covers L25,26
+     - Asg-11 given; due FRIDAY 12/04/20 11:59pm, covers L25,26 
    - 26:11/19
-     - Run the Notebooks within 22_NPC/  
+     - Introduced the notion of NP-Completeness
+
    
    
-* Week-14 **Reading** Chapters 16, 17.  __Outcomes:__
-  How mapping reduction looks in the area of NP-completeness proofs.
+* Week-14 **Reading** Chapters 16, 17. Begin reading Chapter 18. __Outcomes:__
+  How mapping reduction looks in the area of NP-completeness proofs. Begin
+  to understand Lambda Calculus.
    - 27:11/24
-     - Run the Notebooks within 22_NPC/
-     - Quiz-13 given; due 12/4 11:59pm, covers L27,28
-     - Asg-12 given; due 12/11/20 11:59pm, covers material after L26
+     - Run the Notebooks within 21_NPC_Lambda/
+     - Quiz-12 given; due 12/4 11:59pm, covers L27,28
+
    
 * Week-15 **Reading** Chapter 18.  __Outcomes:__  Learn the basics of
   Lambda calculus and show how it models programs.
    - 28:12/1
-     - Run the Notebooks within 23_Lambda_Calc/
+     - Chapter 18 discussions
    - 29:12/3
      - Review for Finals
    
