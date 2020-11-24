@@ -25,7 +25,7 @@ def pcp_oslink(OWN_INSTALL):
         
         if('windows' in platform_name.lower()):
                 print("Detected platform windows; PLEASE be running with Admin Privileges!")
-                src = 'pcpbinaries\pcp_win.exe'
+                src = 'pcpbinaries/pcp_win.exe'
                 dst = 'pcp.exe'
         elif ('linux' in platform_name.lower()):
                 print("Detected platform linux")
@@ -92,7 +92,8 @@ def pcp_solve(pcp_pairs, OWN_INSTALL=False, run=None, ni=False, di=None, depth=N
     # Build the method call.
     #args = "./pcpbinaries/pcp_win.exe -i temp.txt"
 
-    args = pcp_oslink(OWN_INSTALL)+" -i temp.txt"
+    # args = pcp_oslink(OWN_INSTALL)+" -i temp.txt"
+    args = "pcp.exe -i temp.txt"
 
     # Add supplied user arguments.
     if run is not None:
@@ -148,7 +149,8 @@ def pcp_solve(pcp_pairs, OWN_INSTALL=False, run=None, ni=False, di=None, depth=N
                         final_ans.append(int(ans_part))
 
             # Print out the list of tiles.
-            print(final_ans)
+            print("Length: ", len(final_ans))
+            print(final_ans, '\n')
 
             final = ""
 
